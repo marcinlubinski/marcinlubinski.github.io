@@ -189,6 +189,7 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
@@ -502,4 +503,9 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+
+#about .tech {
+  display: flex;
 }

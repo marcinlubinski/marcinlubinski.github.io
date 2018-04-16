@@ -1,0 +1,13 @@
+section.success .technology {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.success .technology img:first-child {
+    width: 300px;
+}
+
+section.success .technology img:last-child {
+    width: 150px;
+    margin-left: 15px;
+}
