@@ -11,3 +11,7 @@ section.success .technology img:last-child {
     width: 150px;
     margin-left: 15px;
 }
+
+.portfolio-modal .modal-content img {
+    max-height: 350px;
+}
